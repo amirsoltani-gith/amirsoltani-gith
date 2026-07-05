@@ -100,7 +100,7 @@ My goal is to transition from Technical Support into Linux System Administration
 
 ## 🤝 Connect With Me
 
-- LinkedIn: **(Add your LinkedIn URL here)**
+- LinkedIn: https://www.linkedin.com/in/amirhoseinsoltani/
 - GitHub: https://github.com/amirsoltani-gith
 
 ---
