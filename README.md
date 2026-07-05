@@ -1,4 +1,4 @@
-# Hi, I'm Amir Soltani 👋
+# Hi, I'm Amirhosein Soltani 👋
 
 **Technical Support Specialist | Linux | Hosting | System Administration | Learning DevOps**
 
